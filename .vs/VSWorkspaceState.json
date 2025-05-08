@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
+    "",
     "\\css",
+    "\\html",
     "\\images",
-    "\\images\\lab3"
+    "\\images\\lab3",
+    "\\images\\lab4"
   ],
+  "SelectedNode": "\\images\\lab4\\earth.png",
   "PreviewInSolutionExplorer": false
 }
