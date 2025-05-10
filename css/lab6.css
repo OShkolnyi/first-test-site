@@ -1,0 +1,86 @@
+﻿:root {
+    --primary: #ff7c52;
+    --bg: #b0b0b0;
+    --td: #ffffff;
+    --card-bg: #ffffff;
+    --text: #222;
+    --subtext: #555;
+    --radius: 12px;
+    --transition: 0.2s ease;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.4;
+}
+
+#game td {
+    width: 50px; /* ширина клітинки */
+    height: 50px; /* висота клітинки */
+    border: 1px solid black; /*рамка довкола клітинки*/
+    text-align: center; /*вирівнювання тексту в клітинці*/
+    cursor: pointer; /*зміна курсора над клітинкою*/
+    font-weight: bold;
+    background: var(--td);
+}
+
+.active {
+    background-color: lightgreen;
+}
+
+div {
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center; /* vertical */
+    height: 100vh; /* full viewport height */
+}
+header {
+    background: #ff9e80;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 25px;
+    position: relative;
+}
+nav a::after {
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: width var(--transition);
+}
+
+nav a:hover::after {
+    width: 100%;
+}
+@media (max-width: 600px) {
+    nav ul {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+}
