@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\lab6.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\css\\lab3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\lab3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\js\\lab6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\lab6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\html\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:html\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\lab3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\css\\lab3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\lab3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\js\\lab6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\lab6.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\lab3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,13 +50,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "lab6.js",
               "DocumentMoniker": "C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\js\\lab6.js",
               "RelativeDocumentMoniker": "js\\lab6.js",
               "ToolTip": "C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\js\\lab6.js",
               "RelativeToolTip": "js\\lab6.js",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwD8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-10T11:34:13.723Z",
               "EditorCaption": ""
@@ -69,7 +69,7 @@
               "RelativeDocumentMoniker": "css\\lab6.css",
               "ToolTip": "C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\css\\lab6.css",
               "RelativeToolTip": "css\\lab6.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-10T11:32:14.068Z",
               "EditorCaption": ""
@@ -133,12 +133,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-08T16:52:46.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:52:46.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "lab3.css",
               "DocumentMoniker": "C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\css\\lab3.css",
               "RelativeDocumentMoniker": "css\\lab3.css",
@@ -146,12 +145,11 @@
               "RelativeToolTip": "css\\lab3.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-04T19:19:43.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T19:19:43.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "lab3.html",
               "DocumentMoniker": "C:\\Users\\dons\\Documents\\web-dev\\first-test-site\\lab3.html",
               "RelativeDocumentMoniker": "lab3.html",
@@ -159,8 +157,7 @@
               "RelativeToolTip": "lab3.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-04T19:20:56.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T19:20:56.017Z"
             }
           ]
         }
