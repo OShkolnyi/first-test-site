@@ -39,11 +39,18 @@ body {
     background-color: lightgreen;
 }
 
-div {
+#game {
     display: flex;
     justify-content: center; /* horizontal */
     align-items: center; /* vertical */
-    height: 100vh; /* full viewport height */
+    height: 60vh; /* full viewport height */
+}
+
+#timer {
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center; /* vertical */
+    height: 10vh; /* full viewport height */
 }
 
 header {
